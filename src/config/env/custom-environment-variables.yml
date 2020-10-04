@@ -1,0 +1,8 @@
+dbHost: DB_HOST
+dbUser: DB_USER
+dbPassword: DB_PASSWORD
+dbPort: DB_PORT
+port: PORT
+mode: MODE
+jwt-secret: JWT_SECRET
+refresh-secret: REFRESH_SECRET

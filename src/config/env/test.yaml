@@ -1,0 +1,4 @@
+port: 3000
+mode: test
+jwt-secret: test1
+refresh-secret: test2

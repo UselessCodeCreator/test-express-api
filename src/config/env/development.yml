@@ -1,0 +1,8 @@
+dbHost: localhost
+dbUser: root
+dbPassword: "7777"
+dbPort: 3306
+port: 3000
+mode: develop
+jwt-secret: test1
+refresh-secret: test2
